@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.devoware</groupId>
-  <artifactId>mis-agent-model</artifactId>
+  <artifactId>homonculus-bootstrap</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20160823183821</lastUpdated>
+    <lastUpdated>20160823183820</lastUpdated>
   </versioning>
 </metadata>
